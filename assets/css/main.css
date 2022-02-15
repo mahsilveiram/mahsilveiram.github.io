@@ -149,6 +149,7 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		line-height: 1.5em;
+		color: #e72486;
 	}
 
 	h3 {
@@ -2221,7 +2222,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2.25em 0;
+		margin: 0 0 1em 0;
 		padding-left: 1em;
 	}
 
@@ -2788,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #e724861;
+					border-top: solid 2px;
 					display: block;
 					padding: 0;
 				}
