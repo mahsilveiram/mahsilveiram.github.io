@@ -3030,7 +3030,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				background:#e72486;
 				color: #fff;
 				min-width: 320px;
 			}
