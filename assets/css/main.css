@@ -237,6 +237,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.left-pos{
+		text-align: left;
+	}
+	.right-pos{
+		text-align: right;
+	}
 /* Row */
 
 	.row {
